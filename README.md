@@ -1,4 +1,4 @@
-TripApp
+**TripApp**
 
 Computer app that has done in Python Tkinter as studying project. In the app you can sign up and purchase any trip in Israel that is basing in firebase database. In the app are three types of users: Administrator, Moderator and User. Administrator can see statistics of all users: all work of moderators and what each moderator has done, all buys of each user and what each user has bought, and can update user to be moderator or moderator to be user. Modearator can change details of the palces of the trip and user can purchase the trip Description: The program is planing the trip for user and dispalays how much will it cost. testing.py file is a unit test file
 
